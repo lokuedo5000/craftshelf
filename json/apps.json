@@ -1,30 +1,57 @@
 [
-        {
-            "ModelId": "com.craftshelf.playsift",
-            "name": "playsift",
-            "title": "PlaySift",
-            "icon": "/imagens/playsift.png",
-            "url": "",
-            "version": "1.0.0",
-            "tags": [
-                "downloads",
-                "games",
-                "free",
-                "download"
-            ],
-            "hash": "f37082dd1f5ceddbf951bf99b6ac41ee"
-        },
-        {
-            "ModelId": "com.craftshelf.craftshelf",
-            "name": "craftshelf",
-            "title": "CraftShelf",
-            "icon": "/imagens/craftshelf2.png",
-            "url": "",
-            "version": "1.0.0",
-            "tags": [
-                "downloads",
-                "apps"
-            ],
-            "hash": "9e6b6e349df98dcc2f413515923f5387"
-        }
-    ]
+  {
+    "ModelId": "com.craftshelf.playsift",
+    "name": "playsift",
+    "title": "PlaySift",
+    "description": "",
+    "icon": "/imagens/playsift.png",
+    "url": "",
+    "version": "1.0.0",
+    "tags": [
+      "downloads",
+      "games",
+      "free",
+      "download"
+    ],
+    "hash": "f37082dd1f5ceddbf951bf99b6ac41ee",
+    "public": true
+  },
+  {
+    "ModelId": "com.craftshelf.craftshelf",
+    "name": "craftshelf",
+    "title": "CraftShelf",
+    "description": "",
+    "icon": "/imagens/craftshelf2.png",
+    "url": "",
+    "version": "1.0.0",
+    "tags": [
+      "downloads",
+      "apps"
+    ],
+    "hash": "9e6b6e349df98dcc2f413515923f5387",
+    "public": true
+  },
+  {
+    "ModelId": "com.craftshelf.crushify",
+    "name": "crushify",
+    "title": "Crushify",
+    "description": "",
+    "icon": "/imagens/craftshelf2.png",
+    "url": "",
+    "version": "1.0.0",
+    "tags": [
+      "Image compression",
+      "Optimize",
+      "Compress",
+      "High quality",
+      "File size",
+      "Lossless",
+      "Fast",
+      "Visual quality",
+      "Image optimize",
+      "Efficient"
+    ],
+    "hash": "beebf04647332dccc9d402fab858f026",
+    "public": true
+  }
+]
