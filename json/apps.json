@@ -1,0 +1,30 @@
+[
+        {
+            "ModelId": "com.craftshelf.playsift",
+            "name": "playsift",
+            "title": "PlaySift",
+            "icon": "/imagens/playsift.png",
+            "url": "",
+            "version": "1.0.0",
+            "tags": [
+                "downloads",
+                "games",
+                "free",
+                "download"
+            ],
+            "hash": "f37082dd1f5ceddbf951bf99b6ac41ee"
+        },
+        {
+            "ModelId": "com.craftshelf.craftshelf",
+            "name": "craftshelf",
+            "title": "CraftShelf",
+            "icon": "/imagens/craftshelf2.png",
+            "url": "",
+            "version": "1.0.0",
+            "tags": [
+                "downloads",
+                "apps"
+            ],
+            "hash": "9e6b6e349df98dcc2f413515923f5387"
+        }
+    ]
